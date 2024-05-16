@@ -1,0 +1,6 @@
+[localhost]
+192.168.56.111 ansible_connection=ssh
+
+192.168.56.109 ansible_connection=ssh
+
+192.168.56.110 ansible_connection=ssh
